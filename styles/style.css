@@ -91,3 +91,19 @@ nav a{
     text-align: center;
     background-color: rgba(57, 52, 210, 0.177);
 }
+/* reviewer style */
+.reviewer{
+    text-align: center;
+}
+.reviewer-info{
+    display: flex;
+}
+.reviewer-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 9999px;
+}
+/* .review{
+    background-color: #ffffff;
+    margin: ;
+} */
