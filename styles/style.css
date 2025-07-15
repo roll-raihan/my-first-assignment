@@ -47,3 +47,25 @@ nav a{
     font-weight: bold;
     color: #252432;
 }
+/* main style */
+.action-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 116px 176px 116px 141px;
+}
+.title{
+    font-size: 42px;
+    font-weight: bold;
+}
+.sub-title{
+    color: #252432;
+    font-size: 24px;
+}
+.left-side{
+    margin: 62px 203px 62px 0px;
+}
+.right-side{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+}
