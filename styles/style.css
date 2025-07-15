@@ -7,6 +7,12 @@
 }
 
 /* header styles */
+.header{
+    background-image: url('../Assets/Hero-bg.png');
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 698px;
+}
 nav{
     display: flex;
     align-items: center;
