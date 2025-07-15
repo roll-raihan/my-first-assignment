@@ -28,3 +28,16 @@ nav a{
     border-radius: 5px;
     padding: 12px 36px;
 }
+/* banner style */
+.banner{
+    max-height: 580px;
+    margin: 158px 267px 153px 267px;
+    text-align: center;
+}
+.banner-title{
+    text-align: center;
+    /* border: 309px 237px ; */
+    font-size: 65px;
+    font-weight: bold;
+    color: #252432;
+}
