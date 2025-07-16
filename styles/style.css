@@ -12,7 +12,8 @@
     background-repeat: no-repeat;
     width: 1461px;
     height: 746px;
-    padding-bottom: ;
+    padding-bottom: 200px;
+    gap: 158px;
 }
 nav{
     display: flex;
@@ -34,6 +35,10 @@ nav a{
     border: none;
     border-radius: 5px;
     padding: 12px 36px;
+}
+.btn-1:hover{
+    background-color: red;
+    color: white;
 }
 /* banner style */
 .banner{
@@ -146,4 +151,31 @@ main input[type="email"] , main input[type="text"], main textarea{
     background-color: #D6DDED;
     display: block;
     border: none;
+}
+/* footer style */
+.footer-container{
+    text-align: center;
+    background-color: #a39a9a70;
+    padding: 104px 455px;
+}
+.website{
+    color: #4E47FF;
+    font-size: 100px;
+    font-weight: 800px;
+}
+.footer-subtitle{
+    color: #8987A1;
+    height: 48px;
+    font-size: 15px;
+} 
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+footer ul li{
+    list-style: none;
+}
+footer ul a{
+    text-decoration: none;
+    color: #8987A1;
 }
