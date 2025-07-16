@@ -127,3 +127,23 @@ nav a{
     display: flex;
     justify-content: space-around;
 }
+/* get in touch section */
+.get-in-touch{
+    display: flex;
+    justify-content: space-around;
+    margin: 900px 150px;
+}
+.touch-title{
+    font-size: 80px;
+    font-weight: bold;
+    height: 232px;
+    width: 528px;
+}
+main input[type="email"] , main input[type="text"], main textarea{
+    height: 70px;
+    width: 497px;
+    border-radius: 10px;
+    background-color: #D6DDED;
+    display: block;
+    border: none;
+}
