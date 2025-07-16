@@ -9,9 +9,10 @@
 /* header styles */
 .header{
     background-image: url('../Assets/Hero-bg.png');
-    background-repeat: no-repeat;
-    width: 1461px;
-    height: 746px;
+    
+    
+    width: auto;
+    height: auto;
     padding-bottom: 200px;
     gap: 158px;
 }
